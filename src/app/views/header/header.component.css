@@ -1,0 +1,29 @@
+* {
+    font-size: 16px;
+}
+.row-1 {
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-between;
+}
+.row-1 a {
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+}
+.row-2 {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+}
+.row-2 a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+#logo {
+    max-width: 150px;
+}
